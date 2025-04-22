@@ -5,4 +5,4 @@
 #### 2025 - I
 
 
-**Link de Trello con las historias de usuario:** https://trello.com/invite/b/6806cb808a0c0e8bf69be0ab/ATTI2ef0c4acfacb681f3ae7b6e20e5011639D26BFFE/proyecto-dsaw-2025-1
+**Link de Trello con las historias de usuario:** https://trello.com/b/85S8YgEc
